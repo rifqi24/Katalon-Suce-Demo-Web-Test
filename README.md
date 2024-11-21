@@ -1,2 +1,2 @@
 Link Test case, capture Screenshot and video
-https://drive.google.com/drive/folders/1UQ71eqEVz9IyO3fReoQIgDvneAFI_xu_
+https://drive.google.com/drive/folders/1UQ71eqEVz9IyO3fReoQIgDvneAFI_xu_?usp=drive_link
