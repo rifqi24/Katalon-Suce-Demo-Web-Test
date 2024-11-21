@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>A_003_User add product to chart and complete transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>989bfd8f-67b0-4492-a2a1-3efc7e0e244e</testCaseGuid>
+</TestCaseEntity>

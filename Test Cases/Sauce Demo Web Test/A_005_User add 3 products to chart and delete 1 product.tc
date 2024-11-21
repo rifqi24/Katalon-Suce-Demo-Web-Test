@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>A_005_User add 3 products to chart and delete 1 product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce5c8d62-bbe9-49f4-a695-8204290cfc33</testCaseGuid>
+</TestCaseEntity>

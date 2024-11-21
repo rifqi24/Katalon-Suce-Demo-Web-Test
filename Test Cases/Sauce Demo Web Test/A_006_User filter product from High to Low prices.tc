@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>A_006_User filter product from High to Low prices</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22807ee4-91b4-48a2-a7fa-c2d42e135878</testCaseGuid>
+</TestCaseEntity>
